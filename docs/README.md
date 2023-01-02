@@ -1,19 +1,3 @@
-# CLDR Docs
-
-CLDR main page: [https://unicode.org/cldr](unicode.org/cldr)
-
-## TR35
-
-- [Unicode Technical Standard #35 UNICODE LOCALE DATA MARKUP LANGUAGE (LDML)](ldml/tr35.html)
-
-## RFC
-
-- draft-davis-t-langtag-ext: [html](rfc/draft-davis-t-langtag-ext.html) [txt](rfc/draft-davis-t-langtag-ext.txt)
-
-- draft-davis-u-langtag-ext-00: [html](rfc/draft-davis-u-langtag-ext-00.html) [txt](rfc/draft-davis-u-langtag-ext-00.txt)
-
-##### Copyright
-
-Copyright &copy; 1991-2019 Unicode, Inc.
-All rights reserved.
-[Terms of use](http://www.unicode.org/copyright.html)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccd49631c643632449d586821e8124d3b552e6eb1f25bbd803623886161f5a60
+size 557
